@@ -1,6 +1,6 @@
 # xylophone_time
 
-An app that acts like a xylophone except I replaced all the xylophone notes with a pitch-shifted car crash sound effect, it is hilarious. Created as part of the Udemy course for learning flutter
+An app that acts like a xylophone with each color playing a different note when pressed except I replaced all the xylophone notes with a pitch-shifted car crash sound effect, it is hilarious. Created as part of the Udemy course for learning flutter
 
 ## Final Product
 ![image](https://user-images.githubusercontent.com/79337953/129809484-e027e97f-65df-4c2e-86c5-ccdb2dadaeee.png)
